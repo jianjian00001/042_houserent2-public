@@ -1,16 +1,16 @@
- 
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
 
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+### 👉接网站建设、小程序、H5、APP、各种系统等
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做
+---
 
 **毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128664176](https://blog.csdn.net/2303_76227485/article/details/128664176)**
 
 **视频演示：[https://www.bilibili.com/video/BV18o4y1P75t/](https://www.bilibili.com/video/BV18o4y1P75t/)**
-
- 
 
 ## 基于Springboot的房屋租赁系统(源代码+数据库)
 
@@ -23,20 +23,25 @@
 - 房源管理
   
   所有房源、待审核房源、添加房源、我的房源、房源出租
+
 - 账户管理
   
   用户管理、员工管理
+
 - 统计管理
   
   出租量统计，出租金额统计
+
 - 收租管理
   
   已出租房源，待交租房源，已交租房源
+
 - 房屋报修管理
 
 用户角色包含以下功能：
 
 - 看房、关注房源、联系中介
+
 - 个人中心
   
   关注房源列表、发布房源列表、我的租房、个人资料、已（未）交租房源
@@ -125,10 +130,11 @@ http://localhost:8053/page/backstage/blogin.html
 ## 六、安装教程
 
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
+
 2. 使用IDEA/Eclipse导入项目，若为maven项目请选择maven;
    
    若为maven项目，导入成功后请执行maven clean;maven install命令，然后运行；
-3. 修改application.yml 里面的数据库配置和redis.properties的redis配置
-4. 启动项目后端项目
 
- 
+3. 修改application.yml 里面的数据库配置和redis.properties的redis配置
+
+4. 启动项目后端项目
